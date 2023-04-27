@@ -8,7 +8,7 @@ For all other files. Google Colab can be used. Upload the `Reviews.csv` file int
 
 ## File Descriptions
 
-`Reviews.csv`: CSV file of raw data ([Link to Download](https://drive.google.com/file/d/1-xWjKfPqL7JBnaoQi1l19C9EDEVg7B6h/view?usp=sharing).
+`Reviews.csv`: CSV file of raw data. [Link to Download](https://drive.google.com/file/d/1-xWjKfPqL7JBnaoQi1l19C9EDEVg7B6h/view?usp=sharing).
 
 ### Bert Files
 
